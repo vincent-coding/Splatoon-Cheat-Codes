@@ -1,0 +1,6 @@
+Replace XXXXXXXX with the desired value!
+Enable  -> FFFFFFFF
+Disable -> 00000000
+
+00020000 106CDD64
+XXXXXXXX 00000000

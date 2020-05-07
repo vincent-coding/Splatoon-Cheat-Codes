@@ -1,0 +1,9 @@
+/!\ It only works with the roller,
+/!\ and it prevents you from attacking.
+
+Replace the XXX with the desired value.
+Enable  -> C3800000
+Disable -> 40200000
+
+00020000 105EDFF4
+XXXXXXXX 00000000

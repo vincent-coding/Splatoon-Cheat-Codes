@@ -1,0 +1,10 @@
+Replace the XXXXXXXX with the desired value.
+Normal -> 3F800000
+x8     -> 41000000
+x16    -> 41800000
+x32    -> 42000000
+x64    -> 42800000
+x128   -> 43000000
+
+00020000 106CDF90
+XXXXXXXX 00000000
