@@ -1,0 +1,10 @@
+Replace XXXXXXXX with the desired value!
+Not unlocked -> FFFFFFFF
+Lvl1         -> 00000000
+Lvl2         -> 00000001
+Lvl3         -> 00000002
+Lvl4 (Max)   -> 00000003
+
+
+00020000 12CDE5D8
+XXXXXXXX 00000000
