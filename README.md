@@ -1,13 +1,11 @@
 # Splatoon-Cheat-Codes
 List of JGeckoU codes for Splatoon (2.12.0, EUR)
 
-These codes have been tested only on a European console and on Splatoon version 2.12.0.
-
-These codes were collected from different sources, some code was created by myself.
-
+These codes have been tested only on a European console and on Splatoon version 2.12.0.<br />
+These codes were collected from different sources, some code was created by myself.<br />
 The codes normally work online, unless otherwise stated.
 
-Some of these codes may cause your WiiU to be banned.
+Some of these codes may cause your WiiU to be banned.<br />
 I will not be responsible in any way for any banning or brick
 
 ## Code format
