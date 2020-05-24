@@ -1,0 +1,12 @@
+Replace the X with the desired value.
+0 -> Normal Ink Tank
+1 -> Lv0 Ink Tank
+2 -> Lv1 Ink Tank
+3 -> Lv2 Ink Tank
+4 -> Lv3 Ink Tank
+5 -> Octoling Ink Tank
+
+30000000 106E46E8
+1D000000 29000000
+00120088 0000000X
+D0000000 DEADCAFE
